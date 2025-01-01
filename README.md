@@ -1,7 +1,6 @@
-### Привет! 👋
+### Hi! 👋
 
-- 🔭 Меня зовут Иван. Я из Беларуси, город Могилев;
-- 🤔 Занимаюсь front-end разработкой в компании Aheadworks;
-- ⚡ Так же я являюсь наставником на интенсиве "HTML и CSS. Профессиональная вёрстка сайтов" в [htmlacademy](https://htmlacademy.ru/profile/id1033347);
-- 🌱 В данный момент изучаю библиотеку React;
-- 📫 Мне можно писать на konderev.ivan@gmail.com
+- 🔭 My name is Ivan. I'm from Belarus;
+- 🤔 My current position: Magento Frontend Developer, Aheadworks;
+- 🌱 At the moment I'm focusing on learning React.js;
+- 📫 Feel free to contact with me via email - konderev.ivan@gmail.com
